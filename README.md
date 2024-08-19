@@ -4,7 +4,7 @@ PyPlanet is an open source software for deprojecting protoplanetary disks.
 
 | Version |    Support    |
 |---------| ------------- |
-| 1.2.0   |    Active     |
+| 1.3.0   |    Active     |
 
 * [Download]
 * [Contact]
