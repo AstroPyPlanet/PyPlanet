@@ -17,7 +17,7 @@ Click on the link provided to access the download page.
 Follow the instructions on the page to download and install the distribution.
 
 # Using Pyplanet
-After installing the distribution, you can use it by typing pyplanet in the console.
+After installing the distribution, you can use it by typing **PyPlanet** in the console.
 If you need help with any commands or usage, please refer to the documentation or help section.
 
 # Help
